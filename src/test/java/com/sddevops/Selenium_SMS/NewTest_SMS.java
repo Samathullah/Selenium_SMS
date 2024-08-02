@@ -63,7 +63,8 @@ public class NewTest_SMS {
 	@AfterTest
 	public void afterTest() {
 		 //Quit the ChromeDriver and close all associated window at the end of test
-		  webDriver.close();	
+		  webDriver.close();
+		  //test
 	}
 
 }
