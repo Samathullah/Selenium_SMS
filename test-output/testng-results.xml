@@ -2,24 +2,24 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-02T11:58:32Z" name="Suite" finished-at="2024-08-02T11:58:33Z" duration-ms="1019">
+  <suite started-at="2024-08-02T12:26:18Z" name="Default suite" finished-at="2024-08-02T12:26:19Z" duration-ms="1062">
     <groups>
     </groups>
-    <test started-at="2024-08-02T11:58:32Z" name="Test" finished-at="2024-08-02T11:58:33Z" duration-ms="1019">
+    <test started-at="2024-08-02T12:26:18Z" name="Default test" finished-at="2024-08-02T12:26:19Z" duration-ms="1062">
       <class name="com.sddevops.Selenium_SMS.NewTest_SMS">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.sddevops.Selenium_SMS.NewTest_SMS@6155d082]" started-at="2024-08-02T19:58:32Z" name="beforeTest" finished-at="2024-08-02T19:58:33Z" duration-ms="892" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.sddevops.Selenium_SMS.NewTest_SMS@648c94da]" started-at="2024-08-02T20:26:18Z" name="beforeTest" finished-at="2024-08-02T20:26:19Z" duration-ms="960" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="checkTitle()[pri:0, instance:com.sddevops.Selenium_SMS.NewTest_SMS@6155d082]" started-at="2024-08-02T19:58:33Z" name="checkTitle" finished-at="2024-08-02T19:58:33Z" duration-ms="120" status="PASS">
+        <test-method signature="checkTitle()[pri:0, instance:com.sddevops.Selenium_SMS.NewTest_SMS@648c94da]" started-at="2024-08-02T20:26:19Z" name="checkTitle" finished-at="2024-08-02T20:26:19Z" duration-ms="93" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkTitle -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.sddevops.Selenium_SMS.NewTest_SMS@6155d082]" started-at="2024-08-02T19:58:33Z" name="afterTest" finished-at="2024-08-02T19:58:33Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.sddevops.Selenium_SMS.NewTest_SMS@648c94da]" started-at="2024-08-02T20:26:19Z" name="afterTest" finished-at="2024-08-02T20:26:19Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- com.sddevops.Selenium_SMS.NewTest_SMS -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
