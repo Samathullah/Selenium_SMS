@@ -52,7 +52,7 @@ public class NewTest_SMS {
 
 	@BeforeTest
 	public void beforeTest() {
-		String chromeDriverDir = "C:\\Users\\sama9\\Desktop\\chromedriver-win64\\chromedriver.exe";
+		String chromeDriverDir = "C:\\Users\\sama9\\OneDrive\\Desktop\\chromedriver-win64\\chromedriver.exe";
 
 		  System.setProperty("webdriver.chrome.driver", chromeDriverDir);
 
