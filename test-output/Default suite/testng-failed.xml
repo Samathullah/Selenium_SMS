@@ -6,4 +6,14 @@
       <class name="com.sddevops.Selenium_SMS.NewTest_SMS"/>
     </classes>
   </test> <!-- Default test -->
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="com.sddevops.Selenium_SMS.NewTest_SMS">
+        <methods>
+          <include name="checkTitle"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.sddevops.Selenium_SMS.NewTest_SMS -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
